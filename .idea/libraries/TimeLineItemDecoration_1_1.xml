@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="TimeLineItemDecoration-1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/c68835df7f7fa1fcb6a4567e1d23f387e822b67e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/c68835df7f7fa1fcb6a4567e1d23f387e822b67e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vivian.widgets/TimeLineItemDecoration/1.1/8b3a6fee53088cc5ed8b2a936c5b9c5be9fe06a9/TimeLineItemDecoration-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

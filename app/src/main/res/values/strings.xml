@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TeamDiaryTest</string>
+    <string name="title_activity_main_with_button">MainActivityWithButton</string>
+</resources>
